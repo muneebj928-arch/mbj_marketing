@@ -1,0 +1,85 @@
+{
+  "name": "Nook",
+  "tagline": "Kitchen organizers made for small kitchens",
+  "site_url": "https://mbj-marketing.github.io",
+  "whatsapp": "923001234567",
+  "email": "hello@example.com",
+  "currency": "Rs.",
+  "currency_code": "PKR",
+  "gtm_id": "",
+  "categories": ["Drawer", "Shelf", "Pantry"],
+  "products": [
+    {
+      "slug": "bamboo-drawer-organizer",
+      "name": "Bamboo Drawer Organizer",
+      "category": "Drawer",
+      "price": 1899,
+      "old_price": 2299,
+      "short": "Expandable tray that keeps spoons, knives and tools sorted.",
+      "description": "An expandable bamboo tray that fits most kitchen drawers. Slide the sides out to fit a drawer from 30 cm to 45 cm wide, then sort cutlery and tools into five sections.",
+      "features": ["Expands from 30 cm to 45 cm", "Five sections with a deep centre well", "Water-resistant bamboo finish", "Rubber feet stop sliding"],
+      "image": "drawer-organizer.svg",
+      "color": "#E9D8A6"
+    },
+    {
+      "slug": "tiered-spice-rack",
+      "name": "Tiered Spice Rack",
+      "category": "Shelf",
+      "price": 1499,
+      "old_price": 0,
+      "short": "Three tiers so every jar is visible at a glance.",
+      "description": "A three-tier rack that turns one shelf into three. Each step sits higher than the one in front, so you can read every label without moving a jar.",
+      "features": ["Holds up to 18 standard spice jars", "Steel frame with matte finish", "Fits inside most cabinets", "No tools needed"],
+      "image": "spice-rack.svg",
+      "color": "#BFD8D2"
+    },
+    {
+      "slug": "cabinet-shelf-riser",
+      "name": "Cabinet Shelf Riser",
+      "category": "Shelf",
+      "price": 2299,
+      "old_price": 2799,
+      "short": "Doubles the space inside any cabinet.",
+      "description": "A sturdy riser that creates a second level inside a cabinet. Store plates on top, bowls or pans underneath, and reach everything without unstacking.",
+      "features": ["Supports up to 10 kg", "Adjustable width 40 cm to 60 cm", "Non-scratch feet", "Rust-resistant coating"],
+      "image": "shelf-riser.svg",
+      "color": "#F4C7AB"
+    },
+    {
+      "slug": "airtight-jar-set",
+      "name": "Airtight Jar Set (6 pcs)",
+      "category": "Pantry",
+      "price": 2699,
+      "old_price": 3199,
+      "short": "Keeps rice, pulses and flour fresh and pest-free.",
+      "description": "Six clear jars with airtight lids for dry goods. Stackable, easy to label, and sized for rice, daal, sugar, flour and tea.",
+      "features": ["Set of 6 in three sizes", "Clip-on airtight lids", "Stackable design", "Includes labels and a marker"],
+      "image": "jar-set.svg",
+      "color": "#CDE0F0"
+    },
+    {
+      "slug": "cutlery-tray-xl",
+      "name": "Cutlery Tray XL",
+      "category": "Drawer",
+      "price": 1299,
+      "old_price": 0,
+      "short": "A wide tray for forks, spoons and long utensils.",
+      "description": "A long, shallow tray with six slots, made for wide drawers. Fits long ladles and spatulas without bending them.",
+      "features": ["Six slots", "Fits drawers 35 cm and wider", "Easy-wipe plastic", "Stackable"],
+      "image": "cutlery-tray.svg",
+      "color": "#D9CFE8"
+    },
+    {
+      "slug": "hanging-mug-rack",
+      "name": "Hanging Mug Rack",
+      "category": "Pantry",
+      "price": 999,
+      "old_price": 1299,
+      "short": "Frees up shelf space by hanging mugs under a cabinet.",
+      "description": "A slim rack that screws under a cabinet and holds six mugs. Clears a full shelf and keeps your favourite cups in reach.",
+      "features": ["Holds six mugs", "Screws in with included hardware", "Stainless steel hooks", "Fits cabinets 18 mm and thicker"],
+      "image": "mug-rack.svg",
+      "color": "#C8E3B8"
+    }
+  ]
+}

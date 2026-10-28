@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /checkout.html
+Sitemap: https://mbj-marketing.github.io/sitemap.xml
